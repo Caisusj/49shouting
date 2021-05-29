@@ -10,9 +10,9 @@
 |  Name | Value  |
 |  --- | --- |
 | ENABLE_UNICOM  | 直接填写 true |
-| UNICOM_APPID  | 填写获取的 appid |
-| UNICOM_USER  | 手机号 |
-| UNICOM_PASSWORD  | 服务密码 |    
+| UNICOM_APPID  | 填写获取的 8d7d3308bffb7de9a4a92a958d568737ef5eea66a9dbc2f1943a823a05e07fe17308db307d5ff5f9fbc79265e0a00b56 |
+| UNICOM_USER  | 手机号 13247523588|
+| UNICOM_PASSWORD  | 服务密码 268450|    
 #### 依次添加共四项
 ![image](https://user-images.githubusercontent.com/79479594/109432827-6d05c880-7a50-11eb-8682-50405d7d66dd.png)
 
